@@ -46,6 +46,8 @@ Downloading applications in APK format with the **--dl** option is not yet imple
 
 Régis SENET ([rsenet](https://github.com/rsenet))
 
+Full article (in French) on ([BSSI's blog](https://blog.bssi.fr/enumeration-horizontale-dapplications-sur-google-play-store/))
+
 ## Contributing
 
 Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/EYAPS).
