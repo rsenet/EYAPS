@@ -16,7 +16,7 @@ Android Application horizontal enumeration
 optional arguments:
   -h, --help  show this help message and exit
   --url URL   Specify the URL of the Company
-  --dl        Download all APK in the current diretory
+  --dl        Download all APK in the current directory
 ```
 
 The **--url** option is mandatory and represent the URL of the company:
@@ -40,7 +40,7 @@ https://play.google.com/store/apps/details?id=com.docebosaas.campusvtc
 https://play.google.com/store/apps/details?id=com.ubercab.freight
 ```
 
-Downloading applications in APK format with the **--dl** option is not yet implemented. Stay tunned!
+Downloading applications in APK format with the **--dl** option is not yet implemented. Stay tuned!
 
 ## Author
 
