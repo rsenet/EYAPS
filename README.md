@@ -46,7 +46,7 @@ Downloading applications in APK format with the **--dl** option is not yet imple
 
 Régis SENET ([rsenet](https://github.com/rsenet))
 
-Full article (in French) on ([BSSI's blog](https://blog.bssi.fr/enumeration-horizontale-dapplications-sur-google-play-store/))
+Full article (in French) on ([ORHUS's blog](https://orhus.fr/2021/05/25/enumeration-horizontale-dapplications-sur-google-play-store/))
 
 ## Contributing
 

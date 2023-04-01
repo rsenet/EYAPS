@@ -5,7 +5,7 @@ import argparse
 import sys
 
 __author__  = 'Regis SENET'
-__email__   = 'regis.senet@bssi.fr'
+__email__   = 'regis.senet@orhus.fr'
 __git__     = 'https://github.com/rsenet/EYAPS'
 __version__ = '0.1'
 __license__ = 'GPLv3'
